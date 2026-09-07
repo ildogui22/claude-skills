@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Planning"
+  short_description: "Route complex initiatives before implementation"
+  default_prompt: "Use $project-planning to shape this initiative and decide whether it needs Wayfinding."

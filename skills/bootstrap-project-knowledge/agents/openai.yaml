@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bootstrap Project Knowledge"
+  short_description: "Create a durable cross-agent knowledge repository"
+  default_prompt: "Use $bootstrap-project-knowledge to initialize a separate knowledge repository for this project."

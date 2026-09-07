@@ -1,0 +1,6 @@
+[project]
+name = "project-knowledge"
+version = "0.1.0"
+description = "Structural checks for an agent-maintained project knowledge base"
+requires-python = ">=3.11"
+dependencies = []

@@ -1,0 +1,5 @@
+.DS_Store
+*.bak.*
+.knowledge_autocommit.lock
+__pycache__/
+*.pyc

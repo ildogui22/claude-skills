@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Maintainer"
+  short_description: "Maintain shared project knowledge"
+  default_prompt: "Maintain the project knowledge base after substantive work."
